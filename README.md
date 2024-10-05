@@ -1,2 +1,2 @@
 # ExoSapiens
->this for the submission of NASA space apps
+>this is for the submission of NASA space apps
